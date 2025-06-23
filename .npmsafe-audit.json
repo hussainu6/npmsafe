@@ -1,0 +1,254 @@
+[
+  {
+    "version": "current",
+    "timestamp": "2025-06-22T09:54:29.385Z",
+    "secrets": [
+      {
+        "file": "a.js",
+        "line": 1,
+        "value": "SECRET",
+        "entropy": 4,
+        "pattern": {
+          "name": "Test",
+          "regex": "SECRET",
+          "severity": "high"
+        }
+      }
+    ],
+    "diff": {
+      "added": [
+        {
+          "file": "a.js",
+          "line": 1,
+          "value": "SECRET",
+          "entropy": 4,
+          "pattern": {
+            "name": "Test",
+            "regex": "SECRET",
+            "severity": "high"
+          }
+        }
+      ],
+      "removed": [],
+      "modified": [],
+      "unchanged": [],
+      "summary": {
+        "totalAdded": 1,
+        "totalRemoved": 0,
+        "totalModified": 0,
+        "totalUnchanged": 0,
+        "riskLevel": "medium"
+      }
+    }
+  },
+  {
+    "version": "current",
+    "timestamp": "2025-06-22T09:56:22.137Z",
+    "secrets": [
+      {
+        "file": "a.js",
+        "line": 1,
+        "value": "SECRET",
+        "entropy": 4,
+        "pattern": {
+          "name": "Test",
+          "regex": "SECRET",
+          "severity": "high"
+        }
+      }
+    ],
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": [],
+      "unchanged": [
+        {
+          "file": "a.js",
+          "line": 1,
+          "value": "SECRET",
+          "entropy": 4,
+          "pattern": {
+            "name": "Test",
+            "regex": "SECRET",
+            "severity": "high"
+          }
+        }
+      ],
+      "summary": {
+        "totalAdded": 0,
+        "totalRemoved": 0,
+        "totalModified": 0,
+        "totalUnchanged": 1,
+        "riskLevel": "low"
+      }
+    }
+  },
+  {
+    "version": "current",
+    "timestamp": "2025-06-22T09:57:13.109Z",
+    "secrets": [
+      {
+        "file": "a.js",
+        "line": 1,
+        "value": "SECRET",
+        "entropy": 4,
+        "pattern": {
+          "name": "Test",
+          "regex": "SECRET",
+          "severity": "high"
+        }
+      }
+    ],
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": [],
+      "unchanged": [
+        {
+          "file": "a.js",
+          "line": 1,
+          "value": "SECRET",
+          "entropy": 4,
+          "pattern": {
+            "name": "Test",
+            "regex": "SECRET",
+            "severity": "high"
+          }
+        }
+      ],
+      "summary": {
+        "totalAdded": 0,
+        "totalRemoved": 0,
+        "totalModified": 0,
+        "totalUnchanged": 1,
+        "riskLevel": "low"
+      }
+    }
+  },
+  {
+    "version": "current",
+    "timestamp": "2025-06-22T09:57:48.050Z",
+    "secrets": [
+      {
+        "file": "a.js",
+        "line": 1,
+        "value": "SECRET",
+        "entropy": 4,
+        "pattern": {
+          "name": "Test",
+          "regex": "SECRET",
+          "severity": "high"
+        }
+      }
+    ],
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": [],
+      "unchanged": [
+        {
+          "file": "a.js",
+          "line": 1,
+          "value": "SECRET",
+          "entropy": 4,
+          "pattern": {
+            "name": "Test",
+            "regex": "SECRET",
+            "severity": "high"
+          }
+        }
+      ],
+      "summary": {
+        "totalAdded": 0,
+        "totalRemoved": 0,
+        "totalModified": 0,
+        "totalUnchanged": 1,
+        "riskLevel": "low"
+      }
+    }
+  },
+  {
+    "version": "current",
+    "timestamp": "2025-06-22T10:03:10.274Z",
+    "secrets": [
+      {
+        "file": "a.js",
+        "line": 1,
+        "value": "SECRET",
+        "entropy": 4,
+        "pattern": {
+          "name": "Test",
+          "regex": "SECRET",
+          "severity": "high"
+        }
+      }
+    ],
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": [],
+      "unchanged": [
+        {
+          "file": "a.js",
+          "line": 1,
+          "value": "SECRET",
+          "entropy": 4,
+          "pattern": {
+            "name": "Test",
+            "regex": "SECRET",
+            "severity": "high"
+          }
+        }
+      ],
+      "summary": {
+        "totalAdded": 0,
+        "totalRemoved": 0,
+        "totalModified": 0,
+        "totalUnchanged": 1,
+        "riskLevel": "low"
+      }
+    }
+  },
+  {
+    "version": "current",
+    "timestamp": "2025-06-23T03:53:26.475Z",
+    "secrets": [
+      {
+        "file": "a.js",
+        "line": 1,
+        "value": "SECRET",
+        "entropy": 4,
+        "pattern": {
+          "name": "Test",
+          "regex": "SECRET",
+          "severity": "high"
+        }
+      }
+    ],
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": [],
+      "unchanged": [
+        {
+          "file": "a.js",
+          "line": 1,
+          "value": "SECRET",
+          "entropy": 4,
+          "pattern": {
+            "name": "Test",
+            "regex": "SECRET",
+            "severity": "high"
+          }
+        }
+      ],
+      "summary": {
+        "totalAdded": 0,
+        "totalRemoved": 0,
+        "totalModified": 0,
+        "totalUnchanged": 1,
+        "riskLevel": "low"
+      }
+    }
+  }
+]
