@@ -250,5 +250,131 @@
         "riskLevel": "low"
       }
     }
+  },
+  {
+    "version": "current",
+    "timestamp": "2025-06-23T03:57:25.436Z",
+    "secrets": [
+      {
+        "file": "a.js",
+        "line": 1,
+        "value": "SECRET",
+        "entropy": 4,
+        "pattern": {
+          "name": "Test",
+          "regex": "SECRET",
+          "severity": "high"
+        }
+      }
+    ],
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": [],
+      "unchanged": [
+        {
+          "file": "a.js",
+          "line": 1,
+          "value": "SECRET",
+          "entropy": 4,
+          "pattern": {
+            "name": "Test",
+            "regex": "SECRET",
+            "severity": "high"
+          }
+        }
+      ],
+      "summary": {
+        "totalAdded": 0,
+        "totalRemoved": 0,
+        "totalModified": 0,
+        "totalUnchanged": 1,
+        "riskLevel": "low"
+      }
+    }
+  },
+  {
+    "version": "current",
+    "timestamp": "2025-06-23T03:57:44.228Z",
+    "secrets": [
+      {
+        "file": "a.js",
+        "line": 1,
+        "value": "SECRET",
+        "entropy": 4,
+        "pattern": {
+          "name": "Test",
+          "regex": "SECRET",
+          "severity": "high"
+        }
+      }
+    ],
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": [],
+      "unchanged": [
+        {
+          "file": "a.js",
+          "line": 1,
+          "value": "SECRET",
+          "entropy": 4,
+          "pattern": {
+            "name": "Test",
+            "regex": "SECRET",
+            "severity": "high"
+          }
+        }
+      ],
+      "summary": {
+        "totalAdded": 0,
+        "totalRemoved": 0,
+        "totalModified": 0,
+        "totalUnchanged": 1,
+        "riskLevel": "low"
+      }
+    }
+  },
+  {
+    "version": "current",
+    "timestamp": "2025-06-23T04:01:46.278Z",
+    "secrets": [
+      {
+        "file": "a.js",
+        "line": 1,
+        "value": "SECRET",
+        "entropy": 4,
+        "pattern": {
+          "name": "Test",
+          "regex": "SECRET",
+          "severity": "high"
+        }
+      }
+    ],
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": [],
+      "unchanged": [
+        {
+          "file": "a.js",
+          "line": 1,
+          "value": "SECRET",
+          "entropy": 4,
+          "pattern": {
+            "name": "Test",
+            "regex": "SECRET",
+            "severity": "high"
+          }
+        }
+      ],
+      "summary": {
+        "totalAdded": 0,
+        "totalRemoved": 0,
+        "totalModified": 0,
+        "totalUnchanged": 1,
+        "riskLevel": "low"
+      }
+    }
   }
 ]

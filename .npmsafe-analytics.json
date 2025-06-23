@@ -33,5 +33,26 @@
     "details": {
       "foo": "bar"
     }
+  },
+  {
+    "type": "audit",
+    "timestamp": "2025-06-23T03:57:25.406Z",
+    "details": {
+      "foo": "bar"
+    }
+  },
+  {
+    "type": "audit",
+    "timestamp": "2025-06-23T03:57:44.766Z",
+    "details": {
+      "foo": "bar"
+    }
+  },
+  {
+    "type": "audit",
+    "timestamp": "2025-06-23T04:01:45.774Z",
+    "details": {
+      "foo": "bar"
+    }
   }
 ]

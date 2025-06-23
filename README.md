@@ -4,7 +4,7 @@
 
 [![npm version](https://badge.fury.io/js/npmsafe.svg)](https://badge.fury.io/js/npmsafe)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js CI](https://github.com/npmsafe/npmsafe/workflows/Node.js%20CI/badge.svg)](https://github.com/npmsafe/npmsafe/actions)
+[![Node.js CI](https://github.com/hussainu6/npmsafe/actions/workflows/node.js.yml/badge.svg)](https://github.com/hussainu6/npmsafe/actions)
 
 ## 📦 Repository
 
@@ -649,12 +649,12 @@ $ npx npmsafe publish
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+We welcome contributions! Please see our [Contributing Guide](https://github.com/hussainu6/npmsafe/blob/main/CONTRIBUTING.md) for details.
 
 ### Development Setup
 
 ```bash
-git clone https://github.com/npmsafe/npmsafe.git
+git clone https://github.com/hussainu6/npmsafe.git
 cd npmsafe
 npm install
 npm run build
@@ -692,4 +692,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 **Made with ❤️ for the npm community**
 
-*Stop npm publishing accidents before they happen with NPMSafe!* 
+*Stop npm publishing accidents before they happen with NPMSafe!*

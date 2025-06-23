@@ -1,5 +1,5 @@
 {
-  "name": "npmsafe",
+  "name": "@hussainu6/npmsafe",
   "version": "1.0.0",
   "description": "🚦 Your seatbelt & airbag for safe npm publishing – stop accidents before they happen",
   "main": "dist/index.js",
@@ -29,18 +29,22 @@
     "changelog",
     "cli",
     "devops",
-    "ci-cd"
+    "ci-cd",
+    "analytics",
+    "monitoring",
+    "webhooks",
+    "integrations"
   ],
-  "author": "NPMSafe Team",
+  "author": "Uzair Hussain",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/npmsafe/npmsafe.git"
+    "url": "https://github.com/hussainu6/npmsafe.git"
   },
   "bugs": {
-    "url": "https://github.com/npmsafe/npmsafe/issues"
+    "url": "https://github.com/hussainu6/npmsafe/issues"
   },
-  "homepage": "https://github.com/npmsafe/npmsafe#readme",
+  "homepage": "https://github.com/hussainu6/npmsafe#readme",
   "engines": {
     "node": ">=16.0.0"
   },
